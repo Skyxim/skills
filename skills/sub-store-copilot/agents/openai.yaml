@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sub-Store Copilot"
+  short_description: "交互式管理 Sub-Store 节点订阅与多源集合，编排算子流水线并定制 JS 节点处理脚本。"
+  default_prompt: "使用 $sub-store-copilot 连接 Sub-Store，管理节点与多源集合，编写处理脚本并编排算子流水线。"
